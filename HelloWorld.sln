@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Looping", "Looping\Looping.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{2C158E79-F715-47B9-8EF8-584054A91014}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csproj", "{FA8BEE1B-803D-40C2-B6C8-678C95A06AD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{2C158E79-F715-47B9-8EF8-584054A91014}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C158E79-F715-47B9-8EF8-584054A91014}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C158E79-F715-47B9-8EF8-584054A91014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8BEE1B-803D-40C2-B6C8-678C95A06AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8BEE1B-803D-40C2-B6C8-678C95A06AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8BEE1B-803D-40C2-B6C8-678C95A06AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8BEE1B-803D-40C2-B6C8-678C95A06AD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
