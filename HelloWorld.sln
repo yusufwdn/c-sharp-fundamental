@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition", "Condition\Cond
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{49AB2368-E7B2-4851-91D3-687687353F5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Looping", "Looping\Looping.csproj", "{91F3FF86-E9A5-4530-AF2E-7473D5308597}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{49AB2368-E7B2-4851-91D3-687687353F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49AB2368-E7B2-4851-91D3-687687353F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49AB2368-E7B2-4851-91D3-687687353F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F3FF86-E9A5-4530-AF2E-7473D5308597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F3FF86-E9A5-4530-AF2E-7473D5308597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F3FF86-E9A5-4530-AF2E-7473D5308597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F3FF86-E9A5-4530-AF2E-7473D5308597}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
