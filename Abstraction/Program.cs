@@ -7,7 +7,7 @@
 
     - Abstract Method
     Method yang hanya dapat digunakan di kelas abstrak, dan tidak memiliki isi (body) di dalamnya. 
-    Nantinya isian tersebut disediakan oleh kelas turunan (dari pewarisan).
+    Nantinya isian tersebut disediakan oleh kelas turunan (override dari pewarisan).
 
     Metode abstraction ini digunakan untuk menyembunyikan bagian detail dari objek dan merupakan 
     sebuah tindak pengamanan program.
