@@ -6,7 +6,7 @@
         Car myCar  = new Car();
         Car newCar = new Car();
 
-        // memanggil property color dari myCar dan newCar
+        // memanggil field color dari myCar dan newCar
         string myCarColor = myCar.color;
         string newCarColor = newCar.color;
 
@@ -19,7 +19,7 @@
         Console.WriteLine($"newCar color is {newCarColor}.");
         Console.WriteLine($"newCar max speed is {newCarMaxSpeed}.\n");
 
-        // menginisiasi kelas dan mengisi value pada property kelasnya
+        // menginisiasi kelas dan mengisi value pada field kelasnya
         CarCustomable carCustom = new CarCustomable();
         string carCustomModel = carCustom.model = "Toyota Supra";
         string carCustomColor = carCustom.color = "Manta Black";

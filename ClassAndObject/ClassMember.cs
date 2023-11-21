@@ -2,7 +2,7 @@
 class ClassMember
 {
     // Class Member
-    // Merupakan seluruh property/field dan method yang berada di dalam kelas
+    // Merupakan seluruh field dan method yang berada di dalam kelas
 
     string color = "red"; // field
     int maxSpeed = 200; // field
