@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{BB6D9800-0E7D-4398-8517-9912143C3FC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceMultiple", "InterfaceMultiple\InterfaceMultiple.csproj", "{4CF9CBF8-BD06-441E-A750-D81B30785E5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{BB6D9800-0E7D-4398-8517-9912143C3FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB6D9800-0E7D-4398-8517-9912143C3FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB6D9800-0E7D-4398-8517-9912143C3FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF9CBF8-BD06-441E-A750-D81B30785E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF9CBF8-BD06-441E-A750-D81B30785E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF9CBF8-BD06-441E-A750-D81B30785E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF9CBF8-BD06-441E-A750-D81B30785E5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
